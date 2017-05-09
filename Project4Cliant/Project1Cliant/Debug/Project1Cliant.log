@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\大樹\desktop\winsock\project4cliant\project1cliant\main.cpp(15): warning C4101: 'sendbuf': ローカル変数は 1 度も使われていません。
+c:\users\大樹\desktop\winsock\project4cliant\project1cliant\main.cpp(14): warning C4101: 'server': ローカル変数は 1 度も使われていません。
+c:\users\大樹\desktop\winsock\project4cliant\project1cliant\main.cpp(13): warning C4101: 'serversock': ローカル変数は 1 度も使われていません。
+  Project1Cliant.vcxproj -> C:\Users\大樹\Desktop\winsock\Project4Cliant\Debug\Project1Cliant.exe
+  Project1Cliant.vcxproj -> C:\Users\大樹\Desktop\winsock\Project4Cliant\Debug\Project1Cliant.pdb (Partial PDB)
